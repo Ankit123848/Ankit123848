@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋 , I'm Ankit Arora</h1>
-<h3 align="center">A passionate Machine Learning❤ and Front-end Developer❤!!</h3>
+<h3 align="center">A passionate Full Stack Developer(MERN)❤!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit123848&label=Profile%20views&color=0e75b6&style=flat" alt="ankit123848" /> </p>
 
